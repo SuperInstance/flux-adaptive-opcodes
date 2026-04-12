@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/adaptive_opcodes/__init__.py
+src/adaptive_opcodes/discovery.py
+src/flux_adaptive_opcodes.egg-info/PKG-INFO
+src/flux_adaptive_opcodes.egg-info/SOURCES.txt
+src/flux_adaptive_opcodes.egg-info/dependency_links.txt
+src/flux_adaptive_opcodes.egg-info/top_level.txt
+tests/test_discovery.py
